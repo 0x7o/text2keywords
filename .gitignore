@@ -2,3 +2,4 @@ cache
 main.py
 n.py
 geckodriver.log
+.gitignore
