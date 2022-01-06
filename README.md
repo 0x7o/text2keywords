@@ -5,4 +5,5 @@ Supported languages:
 |:----------------:|:----------------:|:-------:|
 | Russian | + | + | + |
 | English | + | + | - |
+
 The other languages are supported through a translator.
