@@ -2,8 +2,9 @@
 Trained T5-base and T5-large model for creating keywords from text.
 Supported languages: ru
 
-## keyT5.
+
 [Large version](https://huggingface.co/0x7194633/keyt5-large)
+|
 [Base version](https://huggingface.co/0x7194633/keyt5-base)
 Example usage (the code returns a list with keywords. duplicates are possible):
 ```python
