@@ -1,4 +1,4 @@
-# text2keywords
+# text to keywords
 Trained T5-base and T5-large model for creating keywords from text.
 Supported languages: ru
 
