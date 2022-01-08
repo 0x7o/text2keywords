@@ -10,6 +10,8 @@ Supported languages: ru
 # Usage
 Example usage (the code returns a list with keywords. duplicates are possible):
 
+[![Try Model Training In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0x7o/text2keywords/blob/main/example/keyT5_use.ipynb)
+
 ```
 pip install transformers sentencepiece
 ```
