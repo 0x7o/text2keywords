@@ -3,9 +3,9 @@ Trained T5-base and T5-large model for creating keywords from text.
 Supported languages: ru
 
 
-[Large version](https://huggingface.co/0x7194633/keyt5-large)
+[Pretraining Large version](https://huggingface.co/0x7194633/keyt5-large)
 |
-[Base version](https://huggingface.co/0x7194633/keyt5-base)
+[Pretraining Base version](https://huggingface.co/0x7194633/keyt5-base)
 Example usage (the code returns a list with keywords. duplicates are possible):
 ```python
 from itertools import groupby
@@ -41,3 +41,5 @@ To teach the keyT5-base and keyT5-large models, you will need a table in csv for
 | Some text that is fed to the input | The text that should come out |
 
 Exclusively supports the Russian language!
+Go to the training notebook and learn more about it:
+[![Try Model Generation In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb) or ruGPT-3 smaller models: [![Try Model Generation In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/Generate_text_with_RuGPTs_HF.ipynb)
