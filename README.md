@@ -44,7 +44,7 @@ print(generate(article, top_p=1.0, max_length=64))
 ```
 # Training
 To teach the keyT5-base and keyT5-large models, you will need a table in csv format, like this:
-KeyT5 models were trained on compressed habr.com articles. [data.csv('https://github.com/0x7o/text2keywords/blob/main/data.csv')]
+KeyT5 models were trained on compressed habr.com articles. [data.csv]('https://github.com/0x7o/text2keywords/blob/main/data.csv')
 Exclusively supports the Russian language!
 | X | Y |
 |:--:|:--:|
