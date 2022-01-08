@@ -37,4 +37,7 @@ print(generate(article, top_p=1.0, max_length=64))
 To teach the keyT5-base and keyT5-large models, you will need a table in csv format, like this:
 | X | Y |
 |:--:|:--:|
-| h | h |
+| Some text that is fed to the input | The text that should come out |
+| Some text that is fed to the input | The text that should come out |
+
+Exclusively supports the Russian language!
