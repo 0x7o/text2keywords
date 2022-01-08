@@ -9,7 +9,10 @@ Supported languages: ru
 
 # Usage
 Example usage (the code returns a list with keywords. duplicates are possible):
-```pip install transformers sentencepiece```
+
+```python
+pip install transformers sentencepiece
+```
 
 ```python
 from itertools import groupby
