@@ -33,3 +33,8 @@ SkyWest и Southwest, у каждой — более 400 отмененных р
 print(generate(article, top_p=1.0, max_length=64))  
 # ['лабораторная диагностика', 'панкреатит', 'профилактика', 'профилактика заболеваний', 'научно-популярное', 'биотехнологии', 'здоровье']
 ```
+# Training
+To teach the keyT5-base and keyT5-large models, you will need a table in csv format, like this:
+| X | Y |
+|:--:|:--:|
+| h | h |
