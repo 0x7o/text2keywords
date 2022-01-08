@@ -42,4 +42,5 @@ To teach the keyT5-base and keyT5-large models, you will need a table in csv for
 
 Exclusively supports the Russian language!
 Go to the training notebook and learn more about it:
-[![Try Model Generation In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb)
+
+[![Try Model Training In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb)
