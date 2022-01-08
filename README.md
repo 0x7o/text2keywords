@@ -10,7 +10,7 @@ Supported languages: ru
 # Usage
 Example usage (the code returns a list with keywords. duplicates are possible):
 
-```python
+```
 pip install transformers sentencepiece
 ```
 
@@ -18,7 +18,7 @@ pip install transformers sentencepiece
 from itertools import groupby
 import torch
 from transformers import T5ForConditionalGeneration, T5Tokenizer
-model_name = "0x7194633/keyt5-base" # or 0x7194633/keyt5-large
+model_name = "0x7194633/keyt5-large" # or 0x7194633/keyt5-large
 tokenizer = T5Tokenizer.from_pretrained(model_name)
 model = T5ForConditionalGeneration.from_pretrained(model_name)
 
