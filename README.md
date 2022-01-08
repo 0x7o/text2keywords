@@ -48,7 +48,7 @@ To teach the keyT5-base and keyT5-large models, you will need a table in csv for
 |:--:|:--:|
 | Some text that is fed to the input | The text that should come out |
 | Some text that is fed to the input | The text that should come out |
-
+KeyT5 models were trained on compressed habr.com articles. [data.csv('https://github.com/0x7o/text2keywords/blob/main/data.csv')]
 Exclusively supports the Russian language!
 Go to the training notebook and learn more about it:
 
