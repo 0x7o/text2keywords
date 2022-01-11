@@ -8,6 +8,8 @@ Supported languages: ru
 [Pretraining Base version](https://huggingface.co/0x7194633/keyt5-base)
 
 [habr article](https://habr.com/ru/post/599715/)
+
+[site](https://0x7o.link/keyt5/)
 # Usage
 Example usage (the code returns a list with keywords. duplicates are possible):
 
