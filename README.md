@@ -58,3 +58,5 @@ Exclusively supports the Russian language!
 Go to the training notebook and learn more about it:
 
 [![Try Model Training In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0x7o/text2keywords/blob/main/example/keyT5_train.ipynb)
+
+[![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Faceasin-patreon.herokuapp.com%2F0x7o&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=for-the-badge)](https://patreon.com/0x7o)
