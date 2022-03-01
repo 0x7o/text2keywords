@@ -9,11 +9,10 @@ Supported languages: ru
 
 [habr article](https://habr.com/ru/post/599715/)
 
-[site](https://0x7o.link/keyt5/)
 # Usage
 Example usage (the code returns a list with keywords. duplicates are possible):
 
-[![Try Model Training In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0x7o/text2keywords/blob/main/example/keyT5_use.ipynb)
+[![Try Model Training In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0x7o/notebooks/blob/main/T5/keyT5_use.ipynb)
 
 ```
 pip install transformers sentencepiece
@@ -57,5 +56,5 @@ Exclusively supports the Russian language!
 
 Go to the training notebook and learn more about it:
 
-[![Try Model Training In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0x7o/text2keywords/blob/main/example/keyT5_train.ipynb)
+[![Try Model Training In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0x7o/notebooks/blob/main/T5/keyT5_train.ipynb)
 
